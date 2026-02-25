@@ -1,4 +1,4 @@
----
+https://minniesmall.com/#/register---
 title: Sign-up items table
 description: Configure signup items to build a custom registration page.
 keywords: [signup, items, table, registration]
